@@ -58,3 +58,8 @@ import 'package:stable_diffusion/stable_diffusion.dart';
 ```
 
 
+
+
+## Refrensi
+
+- [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)
